@@ -11,7 +11,7 @@ var streetmap = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}
   maxZoom: 18,
   zoomOffset: -1,
   id: 'mapbox/streets-v11',
-  accessToken: "sk.eyJ1Ijoic2Frb25ha291bWEiLCJhIjoiY2tmMXdtaWszMHg2bTJxcWRvemN0aTcyNiJ9.uiCmBWKO-5kcaDVlHJW0iA"
+  accessToken: "sk.eyJ1Ijoic2Frb25ha291bWEiLCJhIjoiY2tmcTV2NWRwMDI0YjJ3b3hhb3I4ZjNwdyJ9.BW0jcVbja_hNfjMTCar7Bw"
 })
 
 var darkmap = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
