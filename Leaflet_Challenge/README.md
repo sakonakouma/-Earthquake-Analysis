@@ -78,6 +78,6 @@ Your final product will be assessed on the following metrics:
 
 **Good luck!**
 
-### Copyright
+### Copyright.
 
 Trilogy Education Services © 2019. All Rights Reserved.
